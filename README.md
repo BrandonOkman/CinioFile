@@ -23,7 +23,7 @@ Movie lovers know the goosebumps a perfectly placed song can bring. That musical
 
 Brandon Okman
 
-<img width="150" alt="Screen Shot 2021-12-18 at 8 29 20 PM" src="https://user-images.githubusercontent.com/87589924/146662823-29aeef3c-9f95-4c14-9b4f-1c58aeeebb40.png">
+<img width="150" alt="Brandon" src="https://user-images.githubusercontent.com/87589924/146662823-29aeef3c-9f95-4c14-9b4f-1c58aeeebb40.png">
 
 * GitHub:https://github.com/BrandonOkman
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U02P1V4EFGW
@@ -31,7 +31,7 @@ Brandon Okman
 
 Joshua Booth
 
-<img width="150" alt="Josh" src=".images/josh.png">
+<img width="150" alt="Josh" src="images/josh.png">
 
 * GitHub:https://github.com/joshuabenzelli
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
