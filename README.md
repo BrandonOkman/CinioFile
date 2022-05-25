@@ -39,8 +39,16 @@ Joshua Booth
 
 Adam Wollert
 
-<img width="150" alt="Screen Shot 2021-12-18 at 8 29 20 PM" src="https://user-images.githubusercontent.com/87589924/146662823-29aeef3c-9f95-4c14-9b4f-1c58aeeebb40.png">
+<img width="150" alt="Adam" src="">
 
 * GitHub:https://github.com/AWollert
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
+* Email: 
+
+Claudia Delatrindad
+
+<img width="150" alt="Claudia" src="">
+
+* GitHub:https://github.com/Claudiatri1
+* Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BA8MUT4H
 * Email: 
