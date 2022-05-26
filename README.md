@@ -47,7 +47,7 @@ Adam Wollert
 
 Claudia Delatrindad
 
-<img width="150" alt="Claudia" src="">
+<img width="150" alt="Claudia" src="/images/claudia.png">
 
 * GitHub:https://github.com/Claudiatri1
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BA8MUT4H
