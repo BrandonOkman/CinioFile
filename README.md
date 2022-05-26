@@ -34,7 +34,7 @@ Joshua Booth
 <img width="150" alt="Josh" src="/images/Josh.png">
 
 * GitHub:https://github.com/joshuabenzelli
-* Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
+* Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03AV5K4E8J
 * Email: joshuabenzelli@gmail.com
 
 Adam Wollert
@@ -45,10 +45,10 @@ Adam Wollert
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
 * Email: adamcwollert@gmail.com
 
-Claudia Delatrindad
+Claudia De La Trinidad
 
 <img width="150" alt="Claudia" src="/images/claudia.png">
 
 * GitHub:https://github.com/Claudiatri1
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BA8MUT4H
-* Email: Delatrinidadc89@gmail.com
+* Email: delatrinidadc89@gmail.com
