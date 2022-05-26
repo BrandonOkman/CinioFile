@@ -39,7 +39,7 @@ Joshua Booth
 
 Adam Wollert
 
-<img width="150" alt="Adam" src="">
+<img width="150" alt="Adam" src="/images/Adam.png">
 
 * GitHub:https://github.com/AWollert
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
