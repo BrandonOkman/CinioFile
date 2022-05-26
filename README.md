@@ -35,7 +35,7 @@ Joshua Booth
 
 * GitHub:https://github.com/joshuabenzelli
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
-* Email: 
+* Email: joshuabenzelli@gmail.com
 
 Adam Wollert
 
@@ -43,7 +43,7 @@ Adam Wollert
 
 * GitHub:https://github.com/AWollert
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BEMZ0FUH
-* Email: 
+* Email: adamcwollert@gmail.com
 
 Claudia Delatrindad
 
@@ -51,4 +51,4 @@ Claudia Delatrindad
 
 * GitHub:https://github.com/Claudiatri1
 * Slack:https://app.slack.com/client/T02NZTSPT16/D02NU1HML0P/user_profile/U03BA8MUT4H
-* Email: 
+* Email: Delatrinidadc89@gmail.com
