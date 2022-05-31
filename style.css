@@ -91,12 +91,124 @@ body{
     margin-top: -40px;
 }
 
-.fuck{
+/* .ciniopro-container{
+    display: flex;
     height: 600px;  
     background: linear-gradient(black, rgba(255, 255, 255, 0.199));
+    color: white;
+} */
+
+.search{
+    height: 300px;  
+    background: linear-gradient(rgba(255, 255, 255, 0.199, white));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 60px;
 }
 
-.this{
-    height: 600px;  
-    background: linear-gradient(rgba(255, 255, 255, 0.199), white);
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25vw;
+    border: #F1C232 4px solid;
 }
+
+.search h2 {
+    color: rgba(255, 217, 0, 0.516);
+    font-family: 'Sonsie One', cursive;
+    font-size: 25px;
+}
+
+.results{
+    display: flex;
+    height: 600px;  
+    background: linear-gradient(black, rgba(255, 255, 255, 0.199));
+    color: white;
+    justify-content: center;
+    border: red 4px solid;  
+}
+
+.userFavorites {
+    font-family: 'Sonsie One', cursive;
+    font-size: 25px;
+    color: rgba(255, 217, 0, 0.516);  
+}
+
+.titles {
+    display: flex;
+    justify-content: flex-start;
+    height: 100px;
+    border: red 4px solid;
+}
+
+.title_img {
+    content: url("https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/voy4AYwFAYQEMpgSl1sAVsyNvXM6JL.jpg?q=50&fit=contain&w=1500&h=&dpr=1.5");
+    size: 20px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.player {
+    flex: display;
+    height: 100px;
+    background: linear-gradient(rgba(255, 255, 255, 0.199), rgba(255, 255, 255, 0.499));
+    border: blue 4px solid;
+}
+
+.social-icons-flex {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgba(255, 255, 255, 0.499), rgba(255, 255, 255, 0.599));
+
+}
+
+.social_icons {
+    display: flex;
+    justify-content: space-between;
+    max-width: 30px;
+}
+
+.support {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgba(255, 255, 255, 0.599), rgba(255, 255, 255, 0.899));
+}
+
+.contact-us {
+    border-radius: 5px;
+    padding:30px 20px;
+    
+}
+
+.contact-form-button {
+    margin-top:20px;
+}
+
+.contact-container-input {
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.join_us {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background: linear-gradient(rgba(255, 255, 255, 0.599), rgba(255, 255, 255, 0.899));    
+}
+
+.download {
+    background: linear-gradient(rgba(255, 255, 255, 0.899), rgba(255, 255, 255, 0.999));
+    height: 100px;
+}
+
+
+
+

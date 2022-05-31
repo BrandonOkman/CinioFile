@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,20 +9,31 @@
   <title>CinioFile</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Great+Vibes&family=Pacifico&family=Patrick+Hand&family=Sonsie+One&display=swap');
-    </style>
+  </style>
 </head>
+
 <body>
   <!-- top nav bar -->
   <header class="top-flex-container">
     <div class="buttons">
       <span class="btn-group-left">
-        <a class="header-button gold" href="#myciniopro"><i class="fa-solid fa-cannabis"></i><div>MyCinioPro</div></a>
+        <a class="header-button gold" href="#myciniopro"><i class="fa-solid fa-cannabis"></i>
+          <div>MyCinioPro</div>
+        </a>
       </span>
       <span class="btn-group-right">
-        <a class="header-button" href="#signup"><div>Sign up</div></a>
-        <a class="header-button" href="#login"><div>Log in</div></a>
-        <a class="header-button" href="#download"><div>Download</div></a>
-        <a class="header-button" href="#support"><div>Support</div></a>
+        <a class="header-button" href="#signup">
+          <div>Sign up</div>
+        </a>
+        <a class="header-button" href="#login">
+          <div>Log in</div>
+        </a>
+        <a class="header-button" href="#download">
+          <div>Download</div>
+        </a>
+        <a class="header-button" href="#support">
+          <div>Support</div>
+        </a>
       </span>
     </div>
   </header>
@@ -32,14 +44,107 @@
       <h2 class="sub-header">Finding What's Important</h2>
     </div>
   </section>
-  <section class="fuck">
 
-  </section>  
-  <section class="this">
+  <!-- Search Area -->
+  <section>
+    <div class="search">
+      <h2>Search</h2>
+      <form id="form">
+        <input type="search" id="query" name="q" placeholder="What are you watching?">
+        <button>Search</button>
+      </form>
+    </div>
+  </section>
+  <!-- Results for search -->
+  <section class="results">
+    <div class="userSongs">
+      <a class="userFavorites">Your Movies, TV Shows, and Video Games</a>
+      <!-- To be filled in with API -->
+      <a class="titles">
+        <div class="title_img">
+         <h1>Back To The Future</h1>
+        </div>
+      </a>
+      <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+        <li>7</li>
+        <li>8</li>
+        <li>9</li>
+        <li>10</li>
+      </ul>
+    </div>
+  </section>
+  <!-- javascript plugin -->
+  <section class="player">
+    <div class="playerPlugin"></div>
+  </section>
 
+  <!-- Social Media Flex -->
+  <section class="social-icons-flex">
+    <h1>Come Along The Journey And Share Your Favorites</h1>
+    <div class="social_icons">
+        <a title="FaceBook" target="_blank" href="https://www.facebook.com/brandon.okman"><img class="social_icons" src="./images/facebook.png" alt= FaceBook></a>  
+        <a title="Instagram" target="_blank" href="https://www.instagram.com/ciniofile/"><img class="social_icons" src="./images/instagram.png" alt= Instagram></a>
+        <a title="Twitter" target="_blank" href="https://twitter.com/CinioFile"><img class="social_icons" src="./images/twitter.png" alt= Twitter></a>
+    </div>
+  </section>
+  
+  <section class="join_us">
+    <div class="sign_up">
+      <h1>Sign Up</h1>
+      <form class="signup">
+        <div>Name</div>
+          <input class="contact-container-input" type="text" placeholder="Name">
+        <div>E-mail</div>
+          <input class="contact-container-input" type="text" placeholder="E-mail">
+        <div>UserName</div>
+          <input class="contact-container-input" type="text" placeholder="User Name">
+        <div>Password</div>
+          <input class="contact-container-input" type="text" placeholder="Password">
+      </form>
+    </div>
+    <div class="log_in">
+      <h1>Log In</h1>
+      <form class="login">
+        <div>Name</div>
+          <input class="contact-container-input" type="text" placeholder="UserName or E-mail">
+        <div>Password</div>
+          <input class="contact-container-input" type="text" placeholder="Password">
+      </form>
+    </div>  
+  </section>
 
-  </section>  
+  <section class="download">
+    <h1>Download the App</h1>
+
+  </section>
+
+  <section class="support">
+    <section class="contact-us">
+      <h1>Support</h1>
+      <form class="contacts">
+          <div>Name</div>
+              <input class="contact-container-input" type="text" placeholder="Name">   
+          <div>Email</div>
+              <input class="contact-container-input" type="text" placeholder="CinioFileFan@ciniofile.com">
+          <div>Message</div>
+              <input class="contact-container-input" type="text" placeholder="How Can We Help You">
+          <button class= "contact-form-button">Submit</button>
+      </form>  
+  </section>
+
+  </section>
+
+  <section class="creators">
+    <p>Created By</p>
+  </section>
 
   <script src="script.js"></script>
 </body>
+
 </html>
