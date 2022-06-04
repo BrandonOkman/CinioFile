@@ -238,3 +238,9 @@ ul {
     color: #F1C232;
     border: 20px 0px 40px 0px;
 }
+
+.back-to-top {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
