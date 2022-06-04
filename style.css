@@ -100,7 +100,6 @@ body{
 
 .search{
     height: 300px;  
-    background: linear-gradient(rgba(255, 255, 255, 0.199, white));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -124,7 +123,6 @@ form{
 .results{
     display: flex;
     height: 600px;  
-    background: linear-gradient(black, rgba(255, 255, 255, 0.199));
     color: white;
     justify-content: center;
     border: red 4px solid;  
@@ -157,14 +155,12 @@ ul {
 .player {
     flex: display;
     height: 100px;
-    background: linear-gradient(rgba(255, 255, 255, 0.199), rgba(255, 255, 255, 0.499));
     border: blue 4px solid;
 }
 
 .social-icons-flex {
     display: flex;
     justify-content: center;
-    background: linear-gradient(rgba(255, 255, 255, 0.499), rgba(255, 255, 255, 0.599));
     border: purple 4px solid;
 
 }
@@ -179,11 +175,9 @@ ul {
     display:flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(rgba(255, 255, 255, 0.599), rgba(255, 255, 255, 0.899));    
 }
 
 .download {
-    background: linear-gradient(rgba(255, 255, 255, 0.899), rgba(255, 255, 255, 0.999));
     background-size: cover;
 }
 
@@ -207,7 +201,6 @@ ul {
     align-items: center;
     flex-direction: column;
     padding: 0px 0px 40px 0px;
-    background: linear-gradient(rgba(255, 255, 255, 0.999), rgb(255, 255, 255));
 }
 
 .contact-form-button {
@@ -226,3 +219,6 @@ ul {
     padding: 40px 0px 0px 0px;
 }
 
+.whole {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255));
+}
