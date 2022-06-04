@@ -36,6 +36,9 @@
         <a class="header-button" href="#login">
           <div>Log in</div>
         </a>
+        <a class="header-button" href="#connect">
+          <div>Connect</div>
+        </a>
         <a class="header-button" href="#download">
           <div>Download</div>
         </a>
@@ -55,14 +58,13 @@
 
   <!-- Search Area -->
   <div class="whole">
-    
-
-  
   <section>
     <div class="search">
-      <h2>Search</h2>
+      <div class="section_header">
+        <h2 class="section-title">What Are You Watching?</h2>
+      </div>
       <form id="form">
-        <input type="search" id="query" name="q" placeholder="What are you watching?">
+        <input type="search" id="query" name="q" placeholder="Enter your Movie, TV Show, or Video Game Title">
         <button>Search</button>
       </form>
     </div>
@@ -71,7 +73,9 @@
   <hr>
   <section class="results">
     <div class="userSongs">
-      <a class="userFavorites">Your Movies, TV Shows, and Video Games</a>
+      <div class="section_header">
+      <h2 class="section-title">Your Movies, TV Shows, and Video Games</h2>
+      </div>
       <!-- To be filled in with API -->
       <a class="titles">
         <div class="title_img">
@@ -97,25 +101,25 @@
     <div class="playerPlugin"></div>
   </section>
 
-  <!-- Social Media Flex -->
-  <hr>
+  <!-- Social Media Flex  -->
+  <!-- <hr>
   <section class="social-icons-flex">
     <div class="section_header">
-      <h1>Come Along The Journey And Share Your Favorites</h1>
-  </div>
-    <div class="social_icons">
+      <h2 class="section-title">Come Along The Journey And Share Your Favorites</h2>
+    </div>
+    <div class="icon-container">
         <a title="FaceBook" target="_blank" href="https://www.facebook.com/brandon.okman"><img class="social_icons" src="./images/facebook.png" alt= FaceBook></a>  
         <a title="Instagram" target="_blank" href="https://www.instagram.com/ciniofile/"><img class="social_icons" src="./images/instagram.png" alt= Instagram></a>
         <a title="Twitter" target="_blank" href="https://twitter.com/CinioFile"><img class="social_icons" src="./images/twitter.png" alt= Twitter></a>
     </div>
-  </section>
+  </section> -->
   
   <hr>
   <section class="join_us">
     <div class="section_header">
-      <h1>Sign Up</h1>
+      <h1 class="section-title">Sign Up</h1>
     </div>  
-    <form class="signup">
+    <form class="contacts">
       <div>Name</div>
         <input class="contact-container-input" type="text" placeholder="Name">
       <div>E-mail</div>
@@ -124,22 +128,34 @@
         <input class="contact-container-input" type="text" placeholder="User Name">
       <div>Password</div>
         <input class="contact-container-input" type="text" placeholder="Password">
+      <button class= "contact-form-button">Submit</button>
     </form>
     <div class="section_header">
-      <h1>Log In</h1>
+      <h1 class="section-title">Log In</h1>
     </div>
-    <form class="login">
+    <form class="section-title">
       <div>Name</div>
         <input class="contact-container-input" type="text" placeholder="UserName or E-mail">
       <div>Password</div>
         <input class="contact-container-input" type="text" placeholder="Password">
+      <button class= "contact-form-button">Submit</button>
     </form>  
   </section>
 
   <hr>
+  <section class="social-icons-flex">
+    <div class="section_header">
+      <h2 class="section-title">Come Along The Journey And Share Your Favorites</h2>
+    </div>
+    <div class="icon-container">
+        <a title="FaceBook" target="_blank" href="https://www.facebook.com/brandon.okman"><img class="social_icons" src="./images/facebook.png" alt= FaceBook></a>  
+        <a title="Instagram" target="_blank" href="https://www.instagram.com/ciniofile/"><img class="social_icons" src="./images/instagram.png" alt= Instagram></a>
+        <a title="Twitter" target="_blank" href="https://twitter.com/CinioFile"><img class="social_icons" src="./images/twitter.png" alt= Twitter></a>
+    </div>
+  </section>
   <section class="download">
     <div class="section_header">
-      <h1>Download the App</h1>
+      <h1 class="section-title">Download the App</h1>
     </div>
       <div class="icon-container">
         <a title="Apple App Store" target="_blank" href="https://www.apple.com/app-store/"><img class="apps_icon" src="./images/app-store.png" alt= App Store></a>  
@@ -151,7 +167,7 @@
   <hr>
   <section class="support">
     <div class="section_header">
-      <h1>Support</h1>
+      <h1 class="section-title">Support</h1>
     </div>
     <form class="contacts">
       <div>Name</div>
@@ -163,7 +179,22 @@
       <button class= "contact-form-button">Submit</button>
     </form>   
   </section>
-  </div>
+
+<hr>
+<section class="creators">
+<div class="section_header">
+  <h2 class="section-title">Created By</h2>
+</div> 
+</section>
+
+<div class="us">
+  <h3>Brandon Okman</h3>
+  <h3>Adam Wollert</h3>
+  <h3>Joshua Booth</h3>
+  <h3>Claudia De La Trinidad</h3>
+</div>
+</div>
+
 
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script src="script.js"></script>
