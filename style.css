@@ -113,7 +113,6 @@ form{
     flex-direction: column;
     justify-content: center;
     width: 25vw;
-    border: #F1C232 4px solid;
 }
 
 .search h2 {
@@ -184,16 +183,16 @@ ul {
 }
 
 .download {
-    /* display: flex; */
     background: linear-gradient(rgba(255, 255, 255, 0.899), rgba(255, 255, 255, 0.999));
-    height: 100px;
+    background-size: cover;
 }
 
 .icon-container {
     display: flex;
     align-items: center;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    max-width: 33vw;
 }
 
 .apps_icon {
@@ -205,6 +204,9 @@ ul {
 .support {
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 0px 40px 0px;
     background: linear-gradient(rgba(255, 255, 255, 0.999), rgb(255, 255, 255));
 }
 
@@ -217,8 +219,10 @@ ul {
     margin-bottom: 10px;
 }
 
-.cuh1 {
+.section_header {
     display: flex;
-    justify-content: center;  
+    justify-content: center; 
+    /* margin: 30px 0px 0px 0px */
+    padding: 40px 0px 0px 0px;
 }
 
