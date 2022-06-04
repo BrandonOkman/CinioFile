@@ -17,6 +17,7 @@ Movie lovers know the goosebumps a perfectly placed song can bring. That musical
 * https://brandonokman.github.io/CinioFile/
 
 ## Screenshots and Video
+![CinoFile Landing](https://user-images.githubusercontent.com/87589924/171976936-027c4e33-7645-4e8d-bb23-9eb75b47e17d.png)
 
 ## Developer's Team Contact
 
