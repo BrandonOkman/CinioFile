@@ -18,6 +18,12 @@ Movie lovers know the goosebumps a perfectly placed song can bring. That musical
 
 ## Screenshots and Video
 ![CinoFile Landing](https://user-images.githubusercontent.com/87589924/171976936-027c4e33-7645-4e8d-bb23-9eb75b47e17d.png)
+![Sign In:Login](https://user-images.githubusercontent.com/87589924/172068543-c68798fa-4c92-478f-91b1-e4c4d4904152.png)
+![Screen Shot 2022-06-05 at 2 05 24 PM](https://user-images.githubusercontent.com/87589924/172068556-fd71ca94-5494-41a6-8432-d03af2d6acc7.png)
+![Screen Shot 2022-06-05 at 2 05 57 PM](https://user-images.githubusercontent.com/87589924/172068558-92901d91-30ed-42c2-ba75-23ced5ee47ff.png)
+
+
+
 
 ## Developer's Team Contact
 
