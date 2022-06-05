@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <style>       
     hr{
-        height: 3px;
+        height: 1px;
         background-color:gold;
         border: none;
         width: 40%
@@ -63,9 +63,9 @@
       <div class="section_header">
         <h2 class="section-title">What Are You Watching?</h2>
       </div>
-      <form id="form">
-        <input type="search" id="query" name="q" placeholder="Enter your Movie, TV Show, or Video Game Title">
-        <button>Search</button>
+      <form class= "search-form" id="form">
+        <input class="contact-container-input"  placeholder="Enter your Movie or TV Show">
+        <button class="search-form-submit-button">Search</button>
       </form>
     </div>
   </section>
@@ -74,7 +74,7 @@
   <section class="results">
     <div class="userSongs">
       <div class="section_header">
-      <h2 class="section-title">Your Movies, TV Shows, and Video Games</h2>
+      <h2 class="section-title">Your Movies & TV Shows</h2>
       </div>
       <!-- To be filled in with API -->
       <a class="titles">
@@ -106,26 +106,21 @@
     <div class="section_header" id="signup">
       <h1 class="section-title">Sign Up</h1>
     </div>  
-    <form class="contacts">
-      <div>Name</div>
+    <form class="contacts search-form">
         <input class="contact-container-input" type="text" placeholder="Name">
-      <div>E-mail</div>
         <input class="contact-container-input" type="text" placeholder="E-mail">
-      <div>UserName</div>
         <input class="contact-container-input" type="text" placeholder="User Name">
-      <div>Password</div>
         <input class="contact-container-input" type="text" placeholder="Password">
-      <button class= "contact-form-button">Submit</button>
+      <button class="search-form-submit-button">Submit</button>
     </form>
+    <hr>
     <div class="section_header" id="login">
       <h1 class="section-title">Log In</h1>
     </div>
-    <form class="section-title">
-      <div>Name</div>
+    <form class="section-title contacts search-form">
         <input class="contact-container-input" type="text" placeholder="UserName or E-mail">
-      <div>Password</div>
         <input class="contact-container-input" type="text" placeholder="Password">
-      <button class= "contact-form-button">Submit</button>
+      <button class="search-form-submit-button">Submit</button>
     </form>  
   </section>
 
@@ -140,6 +135,7 @@
         <a title="Twitter" target="_blank" href="https://twitter.com/CinioFile"><img class="social_icons" src="./images/twitter.png" alt= Twitter></a>
     </div>
   </section>
+  <hr>
   <section class="download">
     <div class="section_header" id="download">
       <h1 class="section-title">Download the App</h1>
@@ -156,14 +152,11 @@
     <div class="section_header" id="support">
       <h1 class="section-title">Support</h1>
     </div>
-    <form class="contacts">
-      <div>Name</div>
+    <form class="contacts search-form1">
         <input class="contact-container-input" type="text" placeholder="Name">   
-      <div>Email</div>
         <input class="contact-container-input" type="text" placeholder="CinioFileFan@ciniofile.com">
-      <div>Message</div>
         <input class="contact-container-input" type="text" placeholder="How Can We Help You?">
-      <button class= "contact-form-button">Submit</button>
+      <button class="search-form-submit-button">Submit</button>
     </form>   
   </section>
 
@@ -175,17 +168,12 @@
 </section>
 
 <div class="us">
-  <h3>Brandon Okman</h3>
-  <h3>Adam Wollert</h3>
-  <h3>Joshua Booth</h3>
-  <h3>Claudia De La Trinidad</h3>
+  <h3><a href="https://github.com/brandonokman" target="_blank">Brandon Okman</a></h3>
+  <h3><a href="https://github.com/AWollert" target="_blank">Adam Wollert</a></h3>
+  <h3><a href="https://github.com/joshuabenzelli" target="_blank">Joshua Booth</a></h3>
+  <h3><a href="https://github.com/Claudiatri1" target="_blank">Claudia De La Trinidad</a></h3>
 </div>
 
-
-<section class="back-to-top">
-  <button onclick="topFunction()" id="myBtn" title="Go to top">Return to Top</button>
-</section>
-</div>
 
 
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
