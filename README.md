@@ -3,7 +3,6 @@ The Cinema Fiends Best Friend
 
 ## Table of Contents
 * Purpose
-* User Story
 * GitHub Code
 * Deployed Site
 * Screenshot & Video
