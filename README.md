@@ -19,8 +19,7 @@ Movie lovers know the goosebumps a perfectly placed song can bring. That musical
 * As a user, I want to be able to sign up for a premium app, so that I can get special features and be in the loop on new things for the app.
 * As a user, I want to be able to share my findings on social media, so that my friends and family can try the app out for themselves.
 * As a user, I want to have multiple platforms to download this app, so that I can access the app on any of my devices.
-* As a user, I want a place to contact the app developers about issues and tips for the future, so that the app can be as efficient and effective as possible.
-* As a user, I want to be able to access the portfolios of the app devs, so that I can find other projects that the devs have worked on.
+
 
 ## GitHub Code
 * https://github.com/BrandonOkman/CinioFile
