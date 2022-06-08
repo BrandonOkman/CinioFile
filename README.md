@@ -12,11 +12,14 @@ The Cinema Fiends Best Friend
 Movie lovers know the goosebumps a perfectly placed song can bring. That musical masterpiece is going to drive you crazy until you figure out exactly what it is, Luckily for you CinioFile is here. We bring all the songs you hear throughout your favorite Movies and TV Shows to you with the click of a button.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## User Story
 * As a movie-watcher, I want to have an app where I can search up a movie and locate its soundtrack, so that I can listen to the songs outside of the movie.
 * As a user, I want navigation buttons at the top of the app, so that I can quickly get to specific parts of the page that I'm looking for.
 * As a user, I want a clean and easy-to-use UI, so that I can easily navigate and figure out what each button does.
 
+=======
+>>>>>>> parent of d1aed3a (wtf)
 =======
 >>>>>>> parent of d1aed3a (wtf)
 ## GitHub Code
