@@ -298,5 +298,35 @@ a:visited{
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
+
+/* results */
+.block {
+    overflow: hidden;
+    background: gray;
+    padding: 1rem;
+    max-width: 20rem;
+    margin: 0 0 1rem 0;
+  }
+  .block img {
+    width: 75px;
+    height: 75px;
+    float: left;
+    margin: 0 1rem 0 0;
+  }
+  .block h2 {
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
+  }
+  
+  
+  body {
+    background: #222;
+    color: white;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-size: 85%;
+    line-height: 1.4;
+    margin: 0;
+    padding: 1rem;
+  }
