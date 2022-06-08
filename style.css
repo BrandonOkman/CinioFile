@@ -299,4 +299,22 @@ a:visited{
     flex-direction: column;
     align-items: center;
 
+}HTML CSSResult Skip Results Iframe
+EDIT ON
+.block {
+  overflow: hidden;
+  background: #333;
+  padding: 1rem;
+  max-width: 20rem;
+  margin: 0 0 1rem 0;
+}
+.block img {
+  width: 75px;
+  height: 75px;
+  float: left;
+  margin: 0 1rem 0 0;
+}
+.block h2 {
+  font-weight: 500;
+  margin: 0 0 0.5rem 0;
 }
