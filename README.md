@@ -20,7 +20,6 @@ Movie lovers know the goosebumps a perfectly placed song can bring. That musical
 * As a user, I want to be able to share my findings on social media, so that my friends and family can try the app out for themselves.
 * As a user, I want to have multiple platforms to download this app, so that I can access the app on any of my devices.
 
-
 ## GitHub Code
 * https://github.com/BrandonOkman/CinioFile
 ## Deployed Code
