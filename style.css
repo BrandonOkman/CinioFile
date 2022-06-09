@@ -298,12 +298,11 @@ a:visited{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
 
-}HTML CSSResult Skip Results Iframe
-EDIT ON
 .block {
   overflow: hidden;
-  background: #333;
+  background: transparent;
   padding: 1rem;
   max-width: 20rem;
   margin: 0 0 1rem 0;
@@ -317,4 +316,5 @@ EDIT ON
 .block h2 {
   font-weight: 500;
   margin: 0 0 0.5rem 0;
+  
 }
